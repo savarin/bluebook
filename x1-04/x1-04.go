@@ -45,5 +45,3 @@ func countLines(f *os.File, arg string, counts map[[2]string]int) {
 	}
 	// NOTE: ignoring potential errors from input.Err()
 }
-
-//!-
